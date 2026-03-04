@@ -19,7 +19,7 @@ I enjoy building things at the intersection of **software development and machin
 - Python, C++, Java, JavaScript, SQL
 
 **Web Development**
-- React, Node.js, Express
+- React, Node.js, Express(MERN Stack)
 - Tailwind CSS
 - MongoDB, Flask
 
@@ -28,6 +28,8 @@ I enjoy building things at the intersection of **software development and machin
 - TensorFlow (basics)
 - Exploratory ML projects
 - Agentic AI
+- LangChain
+- Basic of LangGraph
 
 **Tools & Platforms**
 - Git & GitHub
