@@ -27,6 +27,7 @@ I enjoy building things at the intersection of **software development and machin
 - Scikit-learn
 - TensorFlow (basics)
 - Exploratory ML projects
+- Agentic AI
 
 **Tools & Platforms**
 - Git & GitHub
