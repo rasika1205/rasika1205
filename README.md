@@ -35,6 +35,7 @@ I enjoy building things at the intersection of **software development and machin
 - Git & GitHub
 - VS Code
 - Netlify (deployment)
+- n8n
 
 ---
 # 📊 GitHub Stats:
